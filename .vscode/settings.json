@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "FIRSTAP.C": "cpp",
+        "STRCAT.C": "cpp",
+        "STRCMP.C": "cpp",
+        "STRLEN.C": "cpp",
+        "T_HANOI.C": "cpp",
+        "TAILREC.C": "cpp",
+        "ARRLIST.C": "cpp",
+        "SORTEDLI.C": "cpp",
+        "REVERSE.C": "cpp",
+        "POLYADD.C": "cpp",
+        "LINKLIST.C": "cpp",
+        "DOUBLELI.C": "cpp",
+        "CIRCLIST.C": "cpp",
+        "FACT.C": "cpp",
+        "FIBO.C": "cpp",
+        "STRCOPY.C": "cpp",
+        "SUBSTR.C": "cpp",
+        "PRIORITY.C": "cpp",
+        "QUEUE_L.C": "cpp",
+        "STACK_A.C": "cpp",
+        "SELECTION.C": "cpp",
+        "HEAPSORT.C": "cpp",
+        "ADDR_CAL.C": "cpp",
+        "LINEAR.C": "cpp",
+        "BSEARCH.C": "cpp",
+        "MRGSORT.C": "cpp",
+        "QUICK.C": "cpp",
+        "INSERTION.C": "cpp"
+    }
+}
